@@ -1,0 +1,24 @@
+ div{
+  margin:50px 50px 50px 50px;
+  
+  border-radius:5px;
+
+}
+button{
+  background-color:lightblue;
+  
+}
+
+body {
+  
+  color:black;
+}
+#search{
+	width:400px;
+	margin-left:200px;
+  color:black;
+}
+a,a:hover{
+  color:black;
+  text-decoration:none;
+}
